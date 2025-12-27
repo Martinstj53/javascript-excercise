@@ -1,0 +1,37 @@
+// 1. Literals for strings
+let firstname = 'Sodunke';
+let lastname = 'Martins';
+let age = 20;
+let intro = 'My name is' + ' ' + firstname + ' ' + lastname + ' ' + 'and i am' + ' ' + age + ' ' + 'years old'
+console.log(intro)
+
+
+// 2. Arithmetic operations
+let num1 = 15;
+let num2 = 8;
+console.log(num1 + num2)
+console.log(num1 - num2)
+console.log(num1 * num2)
+console.log(num1 / num2)
+
+
+// 3.
+let temperature = 22;
+if (temperature < 20)
+    console.log('It is cold')
+else
+    console.log('It is warm')
+
+// 4.
+let price = 50;
+let discount = 10;
+let finalprice = price - discount
+console.log(finalprice)
+
+// 5.
+if (number > 3)
+    console.log('the number is positive')
+else if (number < 0)
+    console.log('the number is negative')
+else
+    console.log('the number zero')
