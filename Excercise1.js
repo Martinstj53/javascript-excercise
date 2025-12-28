@@ -29,10 +29,10 @@ let finalprice = price - discount
 console.log(finalprice)
 
 // 5.
-let number = -5;
+let number = 42;
 if (number > 0)
-    console.log('the number is positive')
+    console.log('positive')
 else if (number < 0)
-    console.log('the number is negative')
+    console.log('negative')
 else
-    console.log('the number zero')
+    console.log(' zero')
