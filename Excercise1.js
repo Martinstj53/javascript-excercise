@@ -1,4 +1,4 @@
-// 1. Literals for strings
+// 1. 
 let firstname = 'Sodunke';
 let lastname = 'Martins';
 let age = 20;
@@ -6,7 +6,7 @@ let intro = 'My name is' + ' ' + firstname + ' ' + lastname + ' ' + 'and i am' +
 console.log(intro)
 
 
-// 2. Arithmetic operations
+// 2.
 let num1 = 15;
 let num2 = 8;
 console.log(num1 + num2)
